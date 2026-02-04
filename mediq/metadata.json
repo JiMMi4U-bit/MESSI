@@ -1,0 +1,8 @@
+{
+  "name": "MediQ",
+  "description": "A comprehensive healthcare appointment and diagnostic portal for patients and doctors, featuring AI-powered medicine insights and real-time patient status tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
